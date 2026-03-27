@@ -57,9 +57,13 @@ El proyecto se crea ya con Maven (no te deja elegirlo, pero no hace falta)
 Puede que el JDK no se configure bien automáticamente.
 
 ⚙️ Configurar el JDK (si falla)
+
 A veces el proyecto se crea sin JDK o con otra versión y te salta el típico mensaje de "Download JDK".
+
 Si te pasa:
+
 File → Project Structure
+
 Y ahí seleccionas Java 21 en el SDK y aplicas.
 
 ```
