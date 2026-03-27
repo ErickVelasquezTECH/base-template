@@ -53,8 +53,7 @@ Esto creará una plantilla en tu ordenador.
 Y listo, ya tendrás todo configurado sin hacer nada más 😄
 
 Importante:
-El proyecto se crea ya con Maven (no te deja elegirlo, pero no hace falta)
-Puede que el JDK no se configure bien automáticamente.
+El proyecto se crea ya con Maven (no te deja elegirlo, pero no hace falta), pero puede que el JDK no se configure bien automáticamente.
 
 ⚙️ Configurar el JDK (si falla)
 
