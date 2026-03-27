@@ -37,10 +37,14 @@ Para crearlo...
 git clone git@github.com:ErickVelasquezTECH/base-template.git
 
 2.Ábrelo en IntelliJ (con Open):
+
 3.Ve a: 
+
 File → New Projects Setup → Save Project as Template
 
 Esto creará una plantilla en tu ordenador.
+
+
 4.Cuando vayas a crear un proyecto nuevo:
 -> Le das a New Project
 -> En la izquierda te aparecerá Templates
