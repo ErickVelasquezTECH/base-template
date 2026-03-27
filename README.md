@@ -16,11 +16,11 @@ Esto es una plantilla que uso para mis proyectos de Java, para no tener que esta
 En el pom.xml ya vienen varias dependencias que suelo usar siempre:
 
 Lombok
-Log4j (con SLF4J)
-JUnit 5
-Mockito
-Mockito + JUnit
-MySQL
+Log4j (con SLF4J) +
+JUnit 5 + 
+Mockito + 
+"Mockito + JUnit"
+MySQL + 
 HikariCP (pool de conexiones)
 
 También incluye el archivo log4j.xml dentro de src/main/resources.
